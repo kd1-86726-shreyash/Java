@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Program01 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Enter Any Double Values - ");
+		
+		double num1 = sc.nextDouble();
+		double num2 = sc.nextDouble();
+		
+		
+		if(num1 = sc.hasNextDouble() && num2 == )
+		{
+			double sum = num1 + num2;
+			System.out.println("Average = "+(sum/2));
+		}
+		else
+		{
+			System.out.println("Error");
+			System.exit(0);
+		}
+		
+		
+
+	}
+
+}
